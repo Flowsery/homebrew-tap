@@ -1,6 +1,7 @@
 # Flowsery Homebrew tap
 
 ```bash
+brew trust Flowsery/tap
 brew install Flowsery/tap/flowsery
 ```
 
