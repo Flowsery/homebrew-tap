@@ -5,23 +5,23 @@ class Flowsery < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.0/flowsery_0.1.0_darwin_arm64.tar.gz"
-      sha256 "0669c18081449791f8cf23db4cb1b4a2d7aef1c5893f836e64dab62c912172b2"
+      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.1/flowsery_0.1.1_darwin_arm64.tar.gz"
+      sha256 "26a95bc061e6104ca692a59ecf886d284dfeac621ce806292e7897a0281a25f3"
     end
     on_intel do
-      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.0/flowsery_0.1.0_darwin_x64.tar.gz"
-      sha256 "71a77debde752ba28017147079f8b852ccf3f8dc8bff00bea698a857548bf8ca"
+      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.1/flowsery_0.1.1_darwin_x64.tar.gz"
+      sha256 "e2fc5ddf06bedb5f710a7e8c96da3af60a70f896d12ee03d5c1b0f9cf8a7cc8c"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.0/flowsery_0.1.0_linux_arm64.tar.gz"
-      sha256 "8103f1e18ad39d0f8b67029fbbd57a80dfd60c970247ab6f876894f2bf5eed4e"
+      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.1/flowsery_0.1.1_linux_arm64.tar.gz"
+      sha256 "ee7a0412bd325b2a9705634e979c0571ae6bbb987d1f1e2e26ffab739131a500"
     end
     on_intel do
-      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.0/flowsery_0.1.0_linux_x64.tar.gz"
-      sha256 "df977403718d260b17105b66720be127a0ab5f6e9d50ef520bbc1c8dd29a5ab5"
+      url "https://github.com/Flowsery/flowsery-cli/releases/download/v0.1.1/flowsery_0.1.1_linux_x64.tar.gz"
+      sha256 "2335a42d9121e8cce67ce9cced185713fc899a08554f640a72560022565fbf00"
     end
   end
 
